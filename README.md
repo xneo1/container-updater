@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://papamica.com">
-    <img src="https://zupimages.net/up/20/04/7vtd.png" width="140px" alt="PAPAMICA" />
+  <a href="https://github.com/xneo1">
+    <img src="https://zupimages.net/up/20/04/7vtd.png" width="140px" alt="xneo1" />
   </a>
 </p>
 
@@ -11,9 +11,9 @@
     🚀 A little bash script for alert and autoupdate containers deployed with docker run, docker-compose or Portainer.
 </p>
 <p align="center">
-    <a href="https://github.com/PAPAMICA/container-updater#requirements"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/container-updater#monitoring"><img src="https://img.shields.io/badge/Monitoring-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/container-updater#auto-update"><img src="https://img.shields.io/badge/Auto_update-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/xneo1/container-updater#requirements"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/xneo1/container-updater#monitoring"><img src="https://img.shields.io/badge/Monitoring-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/xneo1/container-updater#auto-update"><img src="https://img.shields.io/badge/Auto_update-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br /><br />
     <a href="#"><img src="https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F"> </a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"> </a>
@@ -39,7 +39,7 @@ jq, zabbix-sender (if you use Zabbix)
 
 ## Use 
 ```bash
-git clone https://github.com/PAPAMICA/container-updater
+git clone https://github.com/xneo1/container-updater
 cd container-updater
 ./container-updater.sh
 ```
