@@ -2,7 +2,7 @@
 BLACKLIST=""
 if [[ $1 == "-h" ]] ||  [[ $1 == "--help" ]]; then
    echo "A little bash script for alert and autoupdate containers deployed with docker-compose, or docker run or Portainer."
-   echo "Options availables :"
+   echo "Available options :"
    echo "  -d <discord_webhook> : Send notification to Discord"
    echo "  -b <package,package> : Blacklist packages for autoupdate"
    echo "  -g <github_access_token> : Provide your token for Github registry"
