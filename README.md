@@ -25,9 +25,9 @@
 
 🔵 Support of Docker hub (docker.io) and Github (ghcr.io) registries
 
-🟣 Send notification to Discord (optionnal)
+🟣 Send notification to Discord (optional)
 
-🔴 Send data to Zabbix (optionnal)
+🔴 Send data to Zabbix (optional)
 
 🔆 Discord notification example :
 ![ohunebellenotif](https://send.papamica.fr/f.php?h=25rsdWHk&p=1)
